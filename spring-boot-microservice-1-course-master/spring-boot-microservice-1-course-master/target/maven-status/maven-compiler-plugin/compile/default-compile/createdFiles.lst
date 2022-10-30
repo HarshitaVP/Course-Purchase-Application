@@ -1,7 +1,0 @@
-com\sha\springbootmicroservice1course\SpringBootMicroservice1CourseApplication.class
-com\sha\springbootmicroservice1course\model\Course.class
-com\sha\springbootmicroservice1course\security\SecurityConfig.class
-com\sha\springbootmicroservice1course\repository\CourseRepository.class
-com\sha\springbootmicroservice1course\service\CourseService.class
-com\sha\springbootmicroservice1course\controller\CourseController.class
-com\sha\springbootmicroservice1course\service\CourseServiceImpl.class
